@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1f8ecaa1-5686-46d9-a489-456265a6831d": {
+      "ProjectGuid": "1f8ecaa1-5686-46d9-a489-456265a6831d",
+      "DisplayName": "ConsoleApplication1",
+      "ColorIndex": 0
+    },
+    "a7891ef7-206a-49aa-b267-5d81d4509093": {
+      "ProjectGuid": "a7891ef7-206a-49aa-b267-5d81d4509093",
+      "DisplayName": "UnitTest1",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "f695ba83-036e-47e2-98a4-61e72c52c549": {
+      "ProjectGuid": "f695ba83-036e-47e2-98a4-61e72c52c549",
+      "DisplayName": "FeuTricoloreLib",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
